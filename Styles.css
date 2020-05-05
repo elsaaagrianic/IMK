@@ -1,0 +1,24 @@
+	body {
+        background-color : dcd6f7;
+        }
+    h1{
+    	color: 424874;
+    }
+
+    h2{
+    	color: 424874;
+    }
+
+    h3{
+    	color: 424874;
+    }
+    .monospace {
+  		font-family: "Lucida Console", Lucida, monospace;
+	}
+	hr {
+    	background-color: 424874;
+        border-style: double;
+        border-color: 424874;
+        height: 1px;
+        width: 100%;
+    }
